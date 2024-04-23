@@ -6,4 +6,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://eureka-server:8761/eureka
-url: https://dc4e-92-52-144-60.ngrok-free.app
+url: https://drake-singular-severely.ngrok-free.app
